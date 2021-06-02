@@ -15,7 +15,7 @@ Babel==2.6.0
 backcall==0.1.0
 Beaker==1.10.0
 beautifulsoup4==4.8.2
-bleach==3.2.2
+bleach==0.7.1
 blis==3.2.2
 blivet==3.1.4
 blivet-gui==2.1.12
