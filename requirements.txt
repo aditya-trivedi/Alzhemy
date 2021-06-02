@@ -11,8 +11,9 @@ auto-py-to-exe==2.8.0
 azure-common==1.1.25
 azure-storage-blob==2.1.0
 azure-storage-common==2.1.0
-blivet==3.1.4
-blivet-gui==2.1.12
+Babel==2.6.0
+backcall==0.1.0
+Beaker==1.10.0
 Boruta==0.3
 boto3==1.11.17
 botocore==1.14.17
