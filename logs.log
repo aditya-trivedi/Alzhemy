@@ -102,3 +102,7 @@
                  LogisticRegression(max_iter=1000, random_state=8940)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
 2021-06-01 23:58:12,288:INFO:Checking exceptions
 2021-06-01 23:58:12,288:INFO:Preloading libraries
+2021-06-02 18:55:46,879:INFO:Initializing load_model()
+2021-06-02 18:55:46,879:INFO:load_model(model_name=lr_model, platform=None, authentication=None, verbose=True)
+2021-06-02 18:55:49,062:INFO:Initializing load_model()
+2021-06-02 18:55:49,062:INFO:load_model(model_name=lr_model, platform=None, authentication=None, verbose=True)
