@@ -188,7 +188,6 @@ pynndescent==0.5.2
 pyod==0.8.8
 pyOpenSSL==19.0.0
 pyparsing==2.4.7
-pyparted==3.11.2
 pyperclip==1.7.0
 PyQt5==5.13.1
 PyQt5-sip==4.19.19
