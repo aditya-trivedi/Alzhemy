@@ -127,7 +127,7 @@ olefile==0.46
 ordered-set==2.0.2
 oscrypto==1.2.0
 packaging==20.3
-pandas==1.0.3
+pandas==1.2.4
 pandas-datareader==0.6.0
 pandas-profiling==3.0.0
 pandocfilters==1.4.1
