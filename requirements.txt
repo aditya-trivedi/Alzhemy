@@ -221,7 +221,6 @@ scikit-plot==0.3.7
 scipy==1.6.3
 seaborn==0.11.1
 Send2Trash==1.5.0
-setools==4.1.1
 simplegeneric==0.8.1
 simpleline==1.4
 sip==4.19.19
