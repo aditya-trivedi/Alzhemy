@@ -106,3 +106,7 @@
 2021-06-02 18:55:46,879:INFO:load_model(model_name=lr_model, platform=None, authentication=None, verbose=True)
 2021-06-02 18:55:49,062:INFO:Initializing load_model()
 2021-06-02 18:55:49,062:INFO:load_model(model_name=lr_model, platform=None, authentication=None, verbose=True)
+2021-06-02 19:59:12,665:INFO:Initializing load_model()
+2021-06-02 19:59:12,665:INFO:load_model(model_name=lr_model, platform=None, authentication=None, verbose=True)
+2021-06-02 19:59:14,763:INFO:Initializing load_model()
+2021-06-02 19:59:14,763:INFO:load_model(model_name=lr_model, platform=None, authentication=None, verbose=True)
