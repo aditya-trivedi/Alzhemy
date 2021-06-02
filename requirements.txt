@@ -172,7 +172,6 @@ pycurl==7.43.0.2
 pydantic==1.8.2
 pydbus==0.6.0
 pydot==1.4.1
-pyenchant==2.0.0
 pyflakes==2.1.1
 PyGetWindow==0.0.8
 Pygments==2.6.1
