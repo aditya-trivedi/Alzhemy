@@ -220,7 +220,6 @@ s3transfer==0.3.3
 scikit-plot==0.3.7
 scipy==1.6.3
 seaborn==0.11.1
-selinux==2.9
 Send2Trash==1.5.0
 sepolicy==1.1
 setools==4.1.1
